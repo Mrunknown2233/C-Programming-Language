@@ -19,4 +19,6 @@ int main()
 	num1 = num1^num2;
 
 	printf("\nAfter swapping : Num1 = %d and Num2 = %d",num1,num2);
+
+	return 0;
 }

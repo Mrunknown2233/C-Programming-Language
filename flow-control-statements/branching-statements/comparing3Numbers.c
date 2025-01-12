@@ -18,4 +18,8 @@ int main()
 		printf("\nNum2(%d) is the greatest amoung all three numbers",num2);
 	else
 		printf("\nNum3(%d) is the greatest amoung all three numbers",num3);
+
+return 0;
+
+	
 }

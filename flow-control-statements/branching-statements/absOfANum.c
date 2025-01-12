@@ -11,4 +11,6 @@
 		abs = num * (-1);
 
 	printf("\nThe absolute of %d is %d ",num,abs);
+	
+	return 0;
 }

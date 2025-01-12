@@ -9,5 +9,8 @@ int main()
 	for(i  = 0; i <=n; i++)
 		sum+=i;
 
-	printf("\nThe sum of natural numbers till %d is %d ",n,sum);
+	printf("\nThe sum of natural numbers till %d is %d ",n,sum);	
+	
+return 0;
+
 }

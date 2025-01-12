@@ -13,4 +13,6 @@ int main()
 	num2 = temp;
 
 	printf("\nAfter swapping : Num1 = %d and Num2 = %d",num1,num2);
+
+	return 0;
 }

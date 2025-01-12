@@ -13,4 +13,7 @@ int main()
 		printf("\nNum1(%d) is greater than Num2(%d)",num1,num2);
 	else
 		printf("\nNum2(%d) is greater than Num1(%d)",num2,num1);
+return 0;
+
+
 }

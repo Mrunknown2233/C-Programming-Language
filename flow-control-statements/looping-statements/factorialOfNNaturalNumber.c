@@ -12,4 +12,7 @@ int main()
 		fact*=i;
 	
 	printf("\nTh factorial of %d is %d ",n,fact);
+
+return 0;
+
 }
